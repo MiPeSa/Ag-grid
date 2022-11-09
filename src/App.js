@@ -1,5 +1,5 @@
 import './App.css';
-import Todolistv2 from './todolistv2';
+import TabApp from './TabApp';
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <header className='App-header'>
         <h1>Simple Todolist</h1>
       </header>
-        <Todolistv2 />
+        <TabApp />
     </div>
   );
 }
